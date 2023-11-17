@@ -1,0 +1,22 @@
+
+
+.crud-container {
+   
+  height: auto;
+ background-color: rgb(210, 216, 222);
+}
+
+.creat-button{
+  color: brown;
+}
+.name-feild{
+ color: rgb(74, 77, 165);
+}
+.Des-Contai{
+  color: rgb(29, 94, 151);
+}
+
+.crud-dele{
+  color: darkred;
+}
+
